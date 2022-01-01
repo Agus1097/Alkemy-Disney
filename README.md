@@ -7,4 +7,4 @@ Documentación en Postman: https://documenter.getpostman.com/view/18828488/UVRHi
 
 Base de datos MySQL
 
-![alt text](https://drive.google.com/file/d/100NS3NP_4CZBBXC1wLSCHZFhI92RXkht/view?usp=sharing)
+![esquema-disney](https://user-images.githubusercontent.com/82981788/147854341-a8988b9e-0eff-422c-b12d-bf1af790c83e.png)
